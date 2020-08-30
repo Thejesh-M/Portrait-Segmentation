@@ -9,3 +9,13 @@ Since we are using a **Segnet** as encoder for a head start, the training **quic
 
 ## Deployment Homepage
 ![deconv_overall](./Screenshot1.png)
+Deployment is done using **Streamlit** It is the fastest way to create data apps. Streamlit’s open-source app framework enables data scientists and machine learning engineers to create beautiful, performant apps in only a few hours!
+
+### Trails:
+##### With Segmented (empty background) :
+![deconv_overall](./trail1.png)
+
+#### Added a background image:
+
+
+![deconv_overall](./trail2.png)
