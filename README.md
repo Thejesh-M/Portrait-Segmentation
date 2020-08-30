@@ -7,4 +7,5 @@ https://www.kaggle.com/laurentmih/aisegmentcom-matting-human-datasets
 **AISegment**: It is a human matting dataset for **binary segmentation** of humans and their background. This dataset is currently the largest portrait matting dataset, containing **34,427 images** and corresponding matting results. The data set was marked by the high quality of Beijing Play Star Convergence Technology Co., Ltd.,
 Since we are using a **Segnet** as encoder for a head start, the training **quickly converges to 93% accuracy** within first couple of epochs. Also, here we use a flexible **learning rate schedule**  for training the model.
 
-
+## Deployment Homepage
+![Screenshot](Screenshot(219).jpg)
