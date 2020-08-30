@@ -8,4 +8,4 @@ https://www.kaggle.com/laurentmih/aisegmentcom-matting-human-datasets
 Since we are using a **Segnet** as encoder for a head start, the training **quickly converges to 93% accuracy** within first couple of epochs. Also, here we use a flexible **learning rate schedule**  for training the model.
 
 ## Deployment Homepage
-![deconv_overall](./Screenshot (219).png)
+![deconv_overall](./Screenshot1.png)
